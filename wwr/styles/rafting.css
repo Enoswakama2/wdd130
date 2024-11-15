@@ -1,0 +1,35 @@
+.root {
+    --primary-color: #F28100;
+    --secondary-color: #5AC4A8;
+    --accent1-color: #FFFFFF;
+    --accemt2-color: #000000;
+}
+
+* {
+    font-family: "Roboto", serif;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.hero {
+    position: relative;
+}
+
+h1 {
+    position: absolute;
+}
+
+article {
+    position: absolute;
+    background-color: var(--primary-color);
+    opacity: 70%;
+}
+
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
