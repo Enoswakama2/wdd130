@@ -160,3 +160,12 @@ footer ul {
 footer ul li {
     margin: 20px;
 }
+
+.main {
+    display: grid;
+    justify-content: center;
+}
+
+.form {
+    margin: 5px;
+}
